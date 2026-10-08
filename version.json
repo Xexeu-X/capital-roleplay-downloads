@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  117,
-    "versionName":  "4.0.2",
-    "minVersionName":  "4.0.2",
-    "githubTag":  "v4.0.2-build117",
+    "versionCode":  118,
+    "versionName":  "1.0-beta",
+    "minVersionName":  "1.0-beta",
+    "githubTag":  "v1.0-beta-build118",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "bea5829f6247c67d0f478642eb9715755f85e19380498f6d83f9d3150614da69",
-    "sizeBytes":  47690658,
+    "sha256":  "2cfd5a4d1b948763df32d15bd84555d18142052841aac00ca90557ad8e983975",
+    "sizeBytes":  48033704,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Tema Capital roxo, branco e preto em launcher, carregamento, HUD, teclado, mochila, menus e Celular/X-Capital. API e data proprias; assinatura Capital e protecoes de aparelho preservadas.",
+    "notes":  "Capital 1.0 Beta: corrige a biblioteca de audio ausente no APK para ARM32 e ARM64. Logo e cabecalho do launcher corrigidos. Assinatura Capital, protecoes de aparelho, data e atualizacoes GitHub preservadas.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v4.0.2-build117/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-08T16:58:35.8905588Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build118/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-08T22:12:06.0664705Z"
 }
