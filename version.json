@@ -1,0 +1,15 @@
+{
+    "packageName":  "com.capitalrp.game",
+    "versionCode":  117,
+    "versionName":  "4.0.2",
+    "minVersionName":  "4.0.2",
+    "githubTag":  "v4.0.2-build117",
+    "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
+    "sha256":  "bea5829f6247c67d0f478642eb9715755f85e19380498f6d83f9d3150614da69",
+    "sizeBytes":  47690658,
+    "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
+    "notes":  "Tema Capital roxo, branco e preto em launcher, carregamento, HUD, teclado, mochila, menus e Celular/X-Capital. API e data proprias; assinatura Capital e protecoes de aparelho preservadas.",
+    "mandatory":  true,
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v4.0.2-build117/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-08T16:58:35.8905588Z"
+}
