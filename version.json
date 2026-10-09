@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  121,
+    "versionCode":  123,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build121",
+    "githubTag":  "v1.0-beta-build123",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "c319788d484534d5ee23a695403ae7eb46fe02dbdb7b35086233d9462bfc42b2",
-    "sizeBytes":  52648444,
+    "sha256":  "1bc415746022a9e384b771980a55b8746e1618ba091db705a15787c4e418ac7a",
+    "sizeBytes":  52862508,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 121: corrigida queda nativa ao renderizar objetos; removida moldura sobre o radar; cores dos materiais e textos 3D corrigidas. Menus pretos com cantos quadrados e borda rosa animada em dobro da velocidade. Download de data em tres conexoes com retomada e SHA-256, exibindo verificacao separadamente. Novo painel veicular feito com GPT-6 Astra e integrado aos dados reais do servidor; celular nativo pelo /cel no APK oficial; necessidades mais a esquerda, logo PNG, chat circular e lateral ALT/H/F. ARM32 e ARM64, assinatura, contas e atualizacoes preservadas. Launcher build 17 e Data 2 mantidos.",
+    "notes":  "Capital 01 Beta - build 123: logo rabiscada do launcher no topo do jogo; autenticacao oficial corrigida preservando certificado e prova criptografica, habilitando celular nativo /cel e painel veicular Astra. Menus totalmente pretos, cantos quadrados e borda rosa animada. Mantidas correcoes de crash, materiais/textos 3D, radar sem moldura extra, download paralelo com retomada/SHA-256, HUD mais a esquerda, chat circular e lateral ALT/H/F. Servidor atualizado: cadastros novos a partir de 1001, carros aleatorios do mapa removidos, Caveirao e cafeteria desativados. ARM32/ARM64, assinatura, contas e atualizacoes preservadas. Launcher 17 e Data 2 mantidos.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build121/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-09T15:54:16.7621625Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build123/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-09T17:38:26.6997057Z"
 }
