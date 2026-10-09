@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  120,
+    "versionCode":  121,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build120",
+    "githubTag":  "v1.0-beta-build121",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "614476be4a7e56e4b72b007eb5d23934c9c35b61f4f3a55e0f70f409d6c5454a",
-    "sizeBytes":  52644756,
+    "sha256":  "c319788d484534d5ee23a695403ae7eb46fe02dbdb7b35086233d9462bfc42b2",
+    "sizeBytes":  52648444,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta: identidade de instalacao CAPITAL preservando contas e bloqueios; celular nativo com novo visual, HUD compacto e necessidades circulares; carregamento com a imagem das maos, brilho inicial de 20% e configuracoes roxas. Launcher com YouTube, Instagram, Discord e TikTok oficiais. Vegetacao Rockwell e radar roxo em pacote de dados separado. ARM32 e ARM64, assinatura e atualizacoes preservadas.",
+    "notes":  "Capital 01 Beta - build 121: corrigida queda nativa ao renderizar objetos; removida moldura sobre o radar; cores dos materiais e textos 3D corrigidas. Menus pretos com cantos quadrados e borda rosa animada em dobro da velocidade. Download de data em tres conexoes com retomada e SHA-256, exibindo verificacao separadamente. Novo painel veicular feito com GPT-6 Astra e integrado aos dados reais do servidor; celular nativo pelo /cel no APK oficial; necessidades mais a esquerda, logo PNG, chat circular e lateral ALT/H/F. ARM32 e ARM64, assinatura, contas e atualizacoes preservadas. Launcher build 17 e Data 2 mantidos.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build120/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-09T13:46:02.4612640Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build121/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-09T15:54:16.7621625Z"
 }
