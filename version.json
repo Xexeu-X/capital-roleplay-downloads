@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  127,
+    "versionCode":  128,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build127",
+    "githubTag":  "v1.0-beta-build128",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "39350e066b4de3b703c24517966a4a8f944e7e0bfac3eab0b9904ef2a202eee7",
-    "sizeBytes":  52863820,
+    "sha256":  "721a1b814f24c74102c029fc5d3d621030414144fa9ad2cade7d4f678f0c8265",
+    "sizeBytes":  52866212,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 127: apps do celular inteiramente na interface Android. WhatsApp envia mensagens sem dialogo do jogo; PIX, banco e X-Capital usam formularios nativos. GPS ganhou destinos e atalhos nativos; SOS abre os chamados do servidor. Otimizados os desenhos do telefone e reduzida a distancia padrao de renderizacao para 600 m em aparelhos com a configuracao anterior de 800 m. Preservadas as escolhas personalizadas, ARM32/ARM64, autenticacao oficial e protecoes Capital. Launcher 17 e Data 2 mantidos; atualizacao pelo launcher. Desempenho real e operacoes entre jogadores ainda precisam de validacao no aparelho.",
+    "notes":  "Capital 01 Beta - build 128: Capital Bank, PIX, X-Capital, GPS e SOS abrem imediatamente dentro do celular Android. O app mostra carregamento, atualiza os dados recebidos do servidor e oferece nova tentativa se a resposta falhar. Removido o comando de sincronizacao duplicado no toque; o servidor deixou de descartar silenciosamente a abertura desses apps e responde com erro visivel quando necessario. WhatsApp, ARM32/ARM64, assinatura e autenticacao oficial preservados. Launcher 17 e Data 2 mantidos; atualizacao pelo launcher. Validacao visual em aparelho ainda pendente.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build127/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-11T08:30:34.9687599Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build128/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-11T16:26:21.6135180Z"
 }
