@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  130,
+    "versionCode":  131,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build130",
+    "githubTag":  "v1.0-beta-build131",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "63f1e973af4797bc137e5cf9379003897aafa3c6c0ff2ec132ef6e4ed1a8866f",
-    "sizeBytes":  52871676,
+    "sha256":  "3811be85920eabd0d2bafec1091fce52b08921eea883e919c5af08794a43c4fb",
+    "sizeBytes":  52871820,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 130: correcao da exibicao do dinheiro em maos abaixo da vida; HUD de jogo oculta durante login e cadastro e liberada somente apos autenticacao e spawn pronto. Atualizacoes de saldo e estados de vida/colete preservadas. ARM32/ARM64, celular nativo, assinatura e autenticacao oficial preservados. Launcher 17 e Data 2 mantidos; atualizacao pelo launcher. Validacao visual em aparelho ainda pendente.",
+    "notes":  "Capital 01 Beta - build 131: corrige painel vazio ao morrer e respeita fechamento de dialogos pelo servidor; janelas encerradas nao reaparecem ao fechar o chat. ARM32/ARM64, telefone nativo, assinatura e autenticacao oficial preservados. Launcher 17 e Data 2 mantidos; atualizacao pelo launcher. Validacao em aparelho ainda pendente.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build130/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-15T06:18:21.1133139Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build131/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-17T17:11:53.0832853Z"
 }
