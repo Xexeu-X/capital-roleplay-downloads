@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  131,
+    "versionCode":  132,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build131",
+    "githubTag":  "v1.0-beta-build132",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "3811be85920eabd0d2bafec1091fce52b08921eea883e919c5af08794a43c4fb",
-    "sizeBytes":  52871820,
+    "sha256":  "1230d19391970406f0a89fb24db715ba6e72ae1bab179285c97a91c97aef9d27",
+    "sizeBytes":  52872036,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 131: corrige painel vazio ao morrer e respeita fechamento de dialogos pelo servidor; janelas encerradas nao reaparecem ao fechar o chat. ARM32/ARM64, telefone nativo, assinatura e autenticacao oficial preservados. Launcher 17 e Data 2 mantidos; atualizacao pelo launcher. Validacao em aparelho ainda pendente.",
+    "notes":  "Capital 01 Beta - build 132: menus com fundo preto 60% transparente, bordas rosa animadas preservadas e camadas internas transparentes. Ajuste aplicado aos dialogos, configuracoes, painel ADM e tablet. ARM32/ARM64, telefone nativo, licencas e autenticacao oficial preservados. Launcher 17 e Data 2 mantidos; atualizacao pelo launcher. Conferencia visual em aparelho pendente.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build131/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-17T17:11:53.0832853Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build132/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-18T07:44:39.4070866Z"
 }
