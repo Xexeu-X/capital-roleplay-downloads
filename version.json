@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  132,
+    "versionCode":  133,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build132",
+    "githubTag":  "v1.0-beta-build133",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "1230d19391970406f0a89fb24db715ba6e72ae1bab179285c97a91c97aef9d27",
-    "sizeBytes":  52872036,
+    "sha256":  "94722d26e64758436949575d0c49b92a4e33ebfb1a9ec452f578d3a943782571",
+    "sizeBytes":  52872644,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 132: menus com fundo preto 60% transparente, bordas rosa animadas preservadas e camadas internas transparentes. Ajuste aplicado aos dialogos, configuracoes, painel ADM e tablet. ARM32/ARM64, telefone nativo, licencas e autenticacao oficial preservados. Launcher 17 e Data 2 mantidos; atualizacao pelo launcher. Conferencia visual em aparelho pendente.",
+    "notes":  "Capital 01 Beta - build 133: correcao das previas da loja de roupas no mobile, incluindo skins 244 a 311, identificacao pelo tipo real do modelo e geracao gradual das miniaturas. Protecao de recursos ao falhar uma previa. ARM32/ARM64 atualizadas e autenticacao oficial preservada. Launcher 17 e Data 2 mantidos. Capital Admin 01 Beta disponivel nesta release: painel APK separado, login MySQL nivel 8, atualizacoes, bans, logs, notificacoes, aparelhos, crashes e Data Mob. Validacoes de build/API/interface concluidas; teste no aparelho pendente.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build132/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-18T07:44:39.4070866Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build133/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-20T08:33:53.0469692Z"
 }
