@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  133,
+    "versionCode":  134,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build133",
+    "githubTag":  "v1.0-beta-build134",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "94722d26e64758436949575d0c49b92a4e33ebfb1a9ec452f578d3a943782571",
+    "sha256":  "2f52bfd5eb8ce8d29786b5fa5141dff746c6b42dd4c79cfdbe65a2764e70d18d",
     "sizeBytes":  52872644,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 133: correcao das previas da loja de roupas no mobile, incluindo skins 244 a 311, identificacao pelo tipo real do modelo e geracao gradual das miniaturas. Protecao de recursos ao falhar uma previa. ARM32/ARM64 atualizadas e autenticacao oficial preservada. Launcher 17 e Data 2 mantidos. Capital Admin 01 Beta disponivel nesta release: painel APK separado, login MySQL nivel 8, atualizacoes, bans, logs, notificacoes, aparelhos, crashes e Data Mob. Validacoes de build/API/interface concluidas; teste no aparelho pendente.",
+    "notes":  "Capital 01 Beta - build 134: fundos dos menus, configuracoes, painel administrativo e tablet quase pretos (96% de opacidade), com textos e bordas animadas preservados. PLA no menu da autoescola por R$ 20.000, com prova de voo no Dodo, decolagem, 10 checkpoints e pouso; cobranca apenas ao aprovar. ARM32/ARM64, certificado e autenticacao oficial preservados. Launcher 17, Capital Admin 1 e Data 2 mantidos. Testes Android e do servidor aprovados; conferencia no aparelho pendente.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build133/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-20T08:33:53.0469692Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build134/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-22T19:40:35.3812458Z"
 }
