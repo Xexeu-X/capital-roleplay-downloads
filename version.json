@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  135,
+    "versionCode":  136,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build135",
+    "githubTag":  "v1.0-beta-build136",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "ecbb52837b169e24267b3dd4442cbab5409aa575ccc4a69b6eb0eed4947da355",
-    "sizeBytes":  55040019,
+    "sha256":  "bbf9866bb18bea81f3b045b126164db35b342b67c4752c9372e95c8ac00c2fca",
+    "sizeBytes":  55045467,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 135: envio de relatorios de crash e logs ate 8 MB corrigido na API, com repeticoes sem duplicar o registro. Avisos recebidos pelo jogo mesmo com o launcher instalado, banner durante a sessao e sincronizacao Android em segundo plano. Launcher 18 com consulta de avisos independente da autenticacao de pedidos de log. Novo /ajusteemprego no servidor, configuracoes por cidade no MySQL, GPS corrigido ao relogar e administradores imunes ao anti-CBUG e verificacoes comportamentais do antixiter. ARM32/ARM64 e certificado oficial preservados. Firebase/FCM Capital configurado no launcher e backend; autenticacao Google e API HTTP v1 validadas sem enviar avisos globais. Sem teste fisico.",
+    "notes":  "Capital 01 Beta - build 136: corrigido o carregamento de imagens PNG quando o RenderWare seleciona uma textura menor, evitando escrita fora da memoria ao carregar mapa e interface. Fontes usam a mesma validacao. Diagnosticos preservam o arquivo original por crash e repetem o envio sem trocar o anexo; a captura nativa registra build e enderecos mesmo se a log principal girar. ARM32 e ARM64 atualizados. Launcher 18, Admin 1 e Data 2 preservados.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build135/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-22T20:45:33.3244951Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build136/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-22T23:30:54.5912279Z"
 }
