@@ -1,15 +1,15 @@
 {
     "packageName":  "com.capitalrp.game",
-    "versionCode":  136,
+    "versionCode":  137,
     "versionName":  "1.0-beta",
     "minVersionName":  "1.0-beta",
-    "githubTag":  "v1.0-beta-build136",
+    "githubTag":  "v1.0-beta-build137",
     "githubAssetName":  "CAPITAL-ROLEPLAY.apk",
-    "sha256":  "bbf9866bb18bea81f3b045b126164db35b342b67c4752c9372e95c8ac00c2fca",
-    "sizeBytes":  55045467,
+    "sha256":  "67f66160eb0976f659701fa01c841d0d0113292f59541a58cfe8ca996ce5a70c",
+    "sizeBytes":  55046443,
     "certificateSha256":  "5ed4a02b72498cf2020cd470ec1afb78fd65a8e5aa37fc5113ec839d61bfac62",
-    "notes":  "Capital 01 Beta - build 136: corrigido o carregamento de imagens PNG quando o RenderWare seleciona uma textura menor, evitando escrita fora da memoria ao carregar mapa e interface. Fontes usam a mesma validacao. Diagnosticos preservam o arquivo original por crash e repetem o envio sem trocar o anexo; a captura nativa registra build e enderecos mesmo se a log principal girar. ARM32 e ARM64 atualizados. Launcher 18, Admin 1 e Data 2 preservados.",
+    "notes":  "Capital 01 Beta - build 137 / Launcher 19: registro de aparelho com prova de posse da chave Android e token anterior, entrega de sessao launcher-jogo protegida pelo certificado oficial, downloads APK privados com limite de tamanho/origem HTTPS e verificacao novamente antes de instalar. Backup de credenciais do jogo bloqueado, caminhos de arquivos resolvem symlinks e respostas API sao limitadas. Instale o Launcher 19 oficial antes de tocar em JOGAR para baixar o jogo137. ARM32/ARM64, Admin1 e Data2 preservados.",
     "mandatory":  true,
-    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build136/CAPITAL-ROLEPLAY.apk",
-    "publishedAt":  "2026-10-22T23:30:54.5912279Z"
+    "downloadUrl":  "https://github.com/Xexeu-X/capital-roleplay-downloads/releases/download/v1.0-beta-build137/CAPITAL-ROLEPLAY.apk",
+    "publishedAt":  "2026-10-24T10:04:27.9566042Z"
 }
